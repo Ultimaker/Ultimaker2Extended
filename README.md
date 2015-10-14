@@ -7,5 +7,5 @@ The electronic files can be found in the directory 1155 Print Table Heated Bed; 
 
 If you are missing a part or information feel free to file an issue on github.
 
-Harma Woldhuis 
+Harma Woldhuis <br>
 Ultimaker Research and Development
